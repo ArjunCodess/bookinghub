@@ -71,7 +71,7 @@ function SearchForm() {
     const checkin = `${checkin_year}-${checkin_month}-${checkin_monthday}`;
     const checkout = `${checkout_year}-${checkout_month}-${checkout_monthday}`;
 
-    const url = new URL("https://www.booking.com/searchresults.html");
+    const url = new URL("https://www.booking.com/searchresults.html?&aid=304142&lang=en-us");
     url.searchParams.set("ss", values.location);
     url.searchParams.set("group_adults", values.adults);
     url.searchParams.set("group_children", values.children);

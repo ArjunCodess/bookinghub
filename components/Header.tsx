@@ -50,7 +50,7 @@ function Header() {
         aria-label="Global"
       >
         <div className="flex lg:flex-1">
-          <Link href="/" className="-m-1.5 p-1.5 text-white text-lg md:text-xl lg:text-2xl">
+          <Link href="/" className="font-extrabold -m-1.5 p-1.5 text-white text-lg md:text-xl lg:text-2xl">
             BookingHub
           </Link>
         </div>
@@ -165,9 +165,9 @@ function Header() {
 
         <Dialog.Panel className="fixed inset-y-0 right-0 z-10 w-full overflow-y-auto bg-[#006666] px-6 py-6 sm:max-w-sm sm:ring-1 sm:ring-gray-900/10">
           <div className="flex items-center justify-between">
-            <a href="#" className="-m-1.5 p-1.5 text-white text-lg md:text-xl lg:text-2xl">
+            <Link href="/" className="font-extrabold -m-1.5 p-1.5 text-white text-lg md:text-xl lg:text-2xl">
               BookingHub
-            </a>
+            </Link>
             <button
               type="button"
               className="-m-2.5 rounded-md p-2.5 text-white"
