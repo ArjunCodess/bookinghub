@@ -29,6 +29,7 @@ export default function Home() {
           <p className="font-light">
             Most popular choices for travellers from around the nation
           </p>
+          <p className="font-extralight">ps: swipe</p>
         </div>
 
         <div className="flex space-x-4 py-5 overflow-x-scroll">
