@@ -1,4 +1,4 @@
-"use client";
+'use client'
 
 import { zodResolver } from "@hookform/resolvers/zod";
 import { useRouter } from "next/navigation";
@@ -102,7 +102,7 @@ function SearchForm() {
                 <FormMessage />
 
                 <FormControl>
-                  <Input placeholder="Mumbai, India" {...field} />
+                  <Input placeholder="London, UK" {...field} />
                 </FormControl>
               </FormItem>
             )}
