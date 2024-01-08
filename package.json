@@ -26,6 +26,7 @@
     "react-hook-form": "^7.49.2",
     "tailwind-merge": "^2.2.0",
     "tailwindcss-animate": "^1.0.7",
+    "vercel": "^33.0.2",
     "zod": "^3.22.4"
   },
   "devDependencies": {
