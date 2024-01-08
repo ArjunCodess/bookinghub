@@ -1,0 +1,51 @@
+export const trending_data = [
+    {
+        id: 1,
+        src: "https://images.unsplash.com/photo-1598434192043-71111c1b3f41?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        title: "Mumbai",
+        location: "India",
+        description: "City of Dreams",
+    },
+    {
+        id: 2,
+        src: "https://images.unsplash.com/photo-1587474260584-136574528ed5?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        title: "Delhi",
+        location: "India",
+        description: "Capital of India",
+    },
+    {
+        id: 3,
+        src: "https://images.unsplash.com/photo-1603262110263-fb0112e7cc33?q=80&w=1471&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        title: "Jaipur",
+        location: "India",
+        description: "Pink City",
+    },
+    {
+        id: 4,
+        src: "https://images.unsplash.com/photo-1596176530529-78163a4f7af2?q=80&w=1527&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        title: "Bangalore",
+        location: "India",
+        description: "Silicon Valley of India",
+    },
+    {
+        id: 5,
+        src: "https://plus.unsplash.com/premium_photo-1697729600112-434ee1c7f670?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        title: "Goa",
+        location: "India",
+        description: "Pearl of the Orient",
+    },
+    {
+        id: 6,
+        src: "https://plus.unsplash.com/premium_photo-1697730410005-1d916de26345?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        title: "Lucknow",
+        location: "India",
+        description: "City of Nawabs",
+    },
+    {
+        id: 7,
+        src: "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        title: "Chennai",
+        location: "India",
+        description: "Gateway to South India",
+    },
+];
